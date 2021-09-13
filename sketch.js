@@ -278,7 +278,7 @@ function draw() {
    } 
       image(next,325,390,40,40);
   }
-
+ //3 pergunta
   if (tela == 6){
     background('#7d1426')
     fill ('#242424')  
@@ -322,7 +322,7 @@ function draw() {
     }
     fill('#f0f0f0');
     noStroke();
-    text("pentagono", 500, 350)
+    text("pentágono", 500, 350)
   }
 
   //tela de erro
