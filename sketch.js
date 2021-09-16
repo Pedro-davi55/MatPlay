@@ -17,7 +17,7 @@ function preload(){
   img = loadImage('Logo_sBG.png')
   img2 = loadImage('logo_responsiva.png')
   eu = loadImage('eu.png')
-  adriano = loadImage('Adriano.Jpeg')
+  adriano = loadImage('Adriano.jpeg')
   close = loadImage('close.png')
   triangulo = loadImage('triangulo.png')
   quadrado = loadImage('Quadrado.png')
